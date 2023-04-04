@@ -14,6 +14,12 @@
             <li>ブログ</li>
         </ul>
     </header>
+    <main>
+        <section></section>
+        <section></section>
+        <section></section>
+    </main>
+
     <footer>
         <li>
             <li></li>
