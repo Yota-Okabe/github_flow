@@ -15,6 +15,7 @@
         </ul>
     </header>
     <main>
+        <h1>キータに投稿する</h1>
         <section>修正</section>
         <section>修正</section>
         <section>修正</section>
