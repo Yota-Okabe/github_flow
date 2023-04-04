@@ -15,9 +15,9 @@
         </ul>
     </header>
     <main>
-        <section></section>
-        <section></section>
-        <section></section>
+        <section>修正</section>
+        <section>修正</section>
+        <section>修正</section>
     </main>
 
     <footer>
